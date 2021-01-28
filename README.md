@@ -1,2 +1,2 @@
 # DSW-jQuery-example
-https://sky-adams.github.io/DSW-jQuery-example/
+https://azuthedog1.github.io/DSW-jQuery-example/
